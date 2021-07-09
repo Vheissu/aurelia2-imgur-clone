@@ -9,7 +9,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "aurelia": "dev",
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "firebase": "^8.7.1"
   },
   "devDependencies": {
     "@aurelia/testing": "dev",
